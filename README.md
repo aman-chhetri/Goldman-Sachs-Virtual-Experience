@@ -1,5 +1,5 @@
-# Goldman-Sachs-Virtual-Experience
-This repository contains the submitted files of the tasks assigned by the Goldman Sachs Software Engineering Virtual Internship
+# Goldman Sachs Virtual Experience
+This repository contains the submitted files of the tasks assigned by the Goldman Sachs Software Engineering Virtual Experience
 
 ---
 ### Our job is to crack as many passwords as possible with available tools (e.g. use Hashcat). 
